@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <!--name：自定义属性名，format：自定义属性数据类型-->
+        <attr name="default_width" format="dimension"></attr>
+        <attr name="default_hight" format="dimension"></attr>
+
+    </declare-styleable>
+</resources>
